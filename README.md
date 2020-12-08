@@ -1,6 +1,6 @@
 # My-templates
 
-This is the place where I keep differents examples about my projects.
+This is the place where I keep different examples about my projects.
 
 Please, feel free to see them all.
 
